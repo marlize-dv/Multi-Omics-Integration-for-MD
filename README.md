@@ -13,3 +13,5 @@ This is due to the various challenges posed by this application, which include t
 A simplistic GCN has been implemented on mitochondrial disease omics data to classify genes as pathogenic or non-pathogenic.
 The model obtained an average accuracy of 83\%, and the state-of-the-art GCN obtained 89\%.
 These results show that CGNs are promising methods that can be used for multi-omics integration for gene prioritization in mitochondrial diseases.
+
+<img src="https://user-images.githubusercontent.com/91065960/219456191-227f7657-c94a-479d-893d-cbc7905ab4a3.gif" width="550"/>
